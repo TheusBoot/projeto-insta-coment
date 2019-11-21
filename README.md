@@ -6,7 +6,7 @@
 
 # Projeto Finalizado
 
-### Projeto finalizado, executar o arquivo Insta-bot.exe  
+### Projeto finalizado
 
 
 
