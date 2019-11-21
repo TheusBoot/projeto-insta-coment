@@ -78,7 +78,7 @@ class Ui_MainWindow(object):
         self.label_3.setText(QtWidgets.QApplication.translate("MainWindow", " HASHTAGS: ", None, -1))
         self.hashtag_edit.setPlaceholderText(QtWidgets.QApplication.translate("MainWindow", "Hashtags chaves", None, -1))
         self.label_4.setText(QtWidgets.QApplication.translate("MainWindow", "COMENTÁRIOS", None, -1))
- 
+ #n
  
 if __name__ == "__main__":
     import sys
